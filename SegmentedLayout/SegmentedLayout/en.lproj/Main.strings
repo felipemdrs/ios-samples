@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Three Billboards Outside Ebbing"; ObjectID = "04b-OL-9TV"; */
+"04b-OL-9TV.text" = "Three Billboards Outside Ebbing";
+
+/* Class = "UIViewController"; title = "QuickActions"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "QuickActions";
+
+/* Class = "UILabel"; text = "Three Billboards Outside Ebbing"; ObjectID = "EiV-c0-DI2"; */
+"EiV-c0-DI2.text" = "Three Billboards Outside Ebbing";
+
+/* Class = "UITextView"; text = "Is a darkly comic drama from Academy Award winner Martin McDonagh (In Bruges). After months have passed without a culprit in her daughter's murder case, Mildred Hayes (Academy Award winner Frances McDormand) makes a bold move, painting three signs leading into her town with a controversial message directed at William Willoughby (Academy Award nominee Woody Harrelson), the town's revered chief of police. When his second-in-command Officer Dixon (Sam Rockwell), an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated."; ObjectID = "Fv3-xm-yQP"; */
+"Fv3-xm-yQP.text" = "Is a darkly comic drama from Academy Award winner Martin McDonagh (In Bruges). After months have passed without a culprit in her daughter's murder case, Mildred Hayes (Academy Award winner Frances McDormand) makes a bold move, painting three signs leading into her town with a controversial message directed at William Willoughby (Academy Award nominee Woody Harrelson), the town's revered chief of police. When his second-in-command Officer Dixon (Sam Rockwell), an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.";
+
+/* Class = "UILabel"; text = "Three Billboards Outside Ebbing"; ObjectID = "OHi-0B-pma"; */
+"OHi-0B-pma.text" = "Three Billboards Outside Ebbing";
+
+/* Class = "UITextView"; text = "Is a darkly comic drama from Academy Award winner Martin McDonagh (In Bruges). After months have passed without a culprit in her daughter's murder case, Mildred Hayes (Academy Award winner Frances McDormand) makes a bold move, painting three signs leading into her town with a controversial message directed at William Willoughby (Academy Award nominee Woody Harrelson), the town's revered chief of police. When his second-in-command Officer Dixon (Sam Rockwell), an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated."; ObjectID = "TTx-y7-fpJ"; */
+"TTx-y7-fpJ.text" = "Is a darkly comic drama from Academy Award winner Martin McDonagh (In Bruges). After months have passed without a culprit in her daughter's murder case, Mildred Hayes (Academy Award winner Frances McDormand) makes a bold move, painting three signs leading into her town with a controversial message directed at William Willoughby (Academy Award nominee Woody Harrelson), the town's revered chief of police. When his second-in-command Officer Dixon (Sam Rockwell), an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "WzH-eN-MEX"; */
+"WzH-eN-MEX.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UISegmentedControl"; a5I-uj-2he.segmentTitles[0] = "Cover"; ObjectID = "a5I-uj-2he"; */
+"a5I-uj-2he.segmentTitles[0]" = "Cover";
+
+/* Class = "UISegmentedControl"; a5I-uj-2he.segmentTitles[1] = "Second"; ObjectID = "a5I-uj-2he"; */
+"a5I-uj-2he.segmentTitles[1]" = "Second";
+
+/* Class = "UINavigationItem"; title = "Cover"; ObjectID = "wiu-RN-DWW"; */
+"wiu-RN-DWW.title" = "Cover";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wyr-I1-0by"; */
+"wyr-I1-0by.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "xm8-Uz-rb9"; */
+"xm8-Uz-rb9.title" = "Details";
